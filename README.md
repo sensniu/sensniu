@@ -6,7 +6,6 @@
 **Multimodal Learning · Vision-Language Models · Open-World Visual Understanding**
 
 [Personal Website](https://sensniu.github.io) ·
-[OVGOP Project](https://github.com/sensniu/ovgop) ·
 [Email](mailto:sens_niu@163.com)
 
 </div>
